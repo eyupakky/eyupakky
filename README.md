@@ -35,7 +35,6 @@
 ### 💻 Frontend  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### ⚙️ DevOps & Tools  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,20 +51,6 @@
 ![REST](https://img.shields.io/badge/REST-25A162?style=for-the-badge&logo=rest&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP-0678BE?style=for-the-badge&logo=xml&logoColor=white)
 
-## 🔧 Kullandığım ve Sevdiğim Teknolojiler
-
-**Backend:**  
-`Java`, `Spring Boot`, `Spring Security`, `JPA`, `Hibernate`  
-**Messaging & Auth:**  
-`RabbitMQ`, `Kafka`, `Keycloak`, `OAuth2`  
-**Database:**  
-`PostgreSQL`, `Oracle`, `MongoDB`, `Cassandra`, `Redis`  
-**Frontend:**  
-`Angular`, `AngularJS`, `Vue (temel)`  
-**DevOps & Tools:**  
-`Docker`, `CI/CD`, `Git`, `Maven`, `Gradle`, `Jira`, `Confluence`  
-**Architecture:**  
-`Microservices`, `Event-driven`, `REST`, `SOAP`
 
 ## 📌 İlgi Alanlarım
 
