@@ -63,5 +63,5 @@
 ## 📫 Bana Ulaşın
 
 📧 [eyup.akky@gmail.com](mailto:eyup.akky@gmail.com)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/eyupakkaya/](https://www.linkedin.com/in/ey%C3%BCp-akkaya-3aa181108/))  
+🔗 [LinkedIn]((https://www.linkedin.com/in/ey%C3%BCp-akkaya-3aa181108/))  
 🌍 Ankara, Türkiye  
