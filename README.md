@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Eyüp Akkaya
 
-👨‍💻 Kıdemli Java Yazılım Geliştiricisiyim. 6+ yıldır kamu, finans, IoT ve harita tabanlı projelerde mikroservis mimarileri ve dağıtık sistemler geliştiriyorum.
+👨‍💻 Kıdemli Java Yazılım Geliştiricisiyim. 8+ yıldır kamu, finans, IoT ve harita tabanlı projelerde mikroservis mimarileri ve dağıtık sistemler geliştiriyorum.
 
 ## 🚀 Hakkımda
 
